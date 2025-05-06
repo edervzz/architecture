@@ -6,8 +6,7 @@
 
 Capturar las los eventos esenciales que impactan la operación e integración.
 
-**Solicitudes y Respuestas de APIs**: incluir detalles de los tiempos de procesamiento (métricas), mensajes relevantes (logs),
-códigos de respuesta y payloads que sea relevantes (excluyendo datos sensibles). Incluir identificadores de correlación entre sistemas para rastreo de operaciones E2E.
+**Solicitudes y Respuestas de APIs**: incluir detalles de los tiempos de procesamiento (métricas), mensajes relevantes (logs) códigos de respuesta y payloads que sea relevantes (excluyendo datos sensibles). Incluir identificadores de correlación entre sistemas para rastreo de operaciones E2E.
 
 - Todos los servicios deben ser instrumentados, sanitizados y aquellos que realicen mutaciones deben incluir payloads.
 - Generar registro detallado de las excepciones y fallas del sistema, incluyendo códigos de error que puedan ser utilizados por el equipo técnico para su identificación.

@@ -9,7 +9,7 @@
      - Extensibilidad: ampliar funcionalidad
      - Testeabilidad: tipos de testing (manual, unitaria, integración)
 3. Mapear los Componentes
-4. Seleccionar el Stacj tecnológico
+4. Seleccionar el Stack tecnológico
 5. Diseñar la arquitectura
 6. Escribir documento de arquitectura
 7. Apoyo al equipo
