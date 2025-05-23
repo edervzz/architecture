@@ -10,7 +10,7 @@ Se asegura de que el diseño del software implementa los requisitos del sistema.
 
 Prepara POCs, revisa librerias, DB, patrones y tendencias.
 
-# Evoca a una sola misión
+# Un arquitecto, vela por una misión
 
 Todo sistema diseñado por el arquitecto debe cumplir 4 aspectos:
 
